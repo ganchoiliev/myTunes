@@ -287,3 +287,9 @@ nav a#openup {
     display: none;
   }
 }
+
+@media screen and (max-height: 580px) {
+  #showcase p.lead {
+    display: none;
+  }
+}
